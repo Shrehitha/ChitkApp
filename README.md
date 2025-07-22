@@ -54,7 +54,6 @@ The backend of this project serves as a powerful corpus engine, collecting struc
 
 Once the app is deployed and running, you can open it in your browser. You can browse existing tips by category, or use the form to submit your own. The "Share on WhatsApp" functionality is best tested on a mobile device.
 
-*(Add a screenshot of your app here later)*
 
 ---
 
